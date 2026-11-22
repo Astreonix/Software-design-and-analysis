@@ -492,6 +492,5 @@ DeliveryStaff: Delivery Dashboard: assigned deliveries and status updates
 ## Author
 
 **Mehr Ali**  
-Registration Number: **24P-0500**  
 GitHub: [Astreonix](https://github.com/Astreonix)
 
